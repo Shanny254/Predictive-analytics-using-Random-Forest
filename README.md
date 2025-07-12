@@ -52,8 +52,8 @@ This notebook includes implementations of:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ai-software-engineering-week4.git
-   cd ai-software-engineering-week4
+   git clone https://github.com/your-username/AI-Software-Engineering.git
+   cd AI-Software-Engineering
    
 2. **Install Required Libraries**
    ```bash
